@@ -1,0 +1,6 @@
+Abra o terminal nesta pasta
+E execute o comando:
+	cc donuts -lm
+Ou o comando:
+	gcc donuts -lm
+
