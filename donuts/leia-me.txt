@@ -1,6 +1,8 @@
-Abra o terminal nesta pasta
-E execute o comando:
+1) Abra o terminal nesta pasta
+2) E execute o comando:
 	cc donuts -lm
-Ou o comando:
+3) Ou o comando:
 	gcc donuts -lm
 
+Fonte do projecto:
+	https://www.a1k0n.net/2011/07/20/donut-math.html
