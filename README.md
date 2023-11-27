@@ -1,2 +1,2 @@
-# my-c-projects
-Meus projectos aleatórios em C!!
+# c-world-projects
+Projectos em C legais do mundo todo!
