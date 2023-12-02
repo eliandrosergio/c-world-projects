@@ -1,0 +1,10 @@
+1) Abra o terminal nesta pasta
+2) E execute o comando:
+	cc cube.c -lm
+3) Ou o comando:
+	gcc cube.c -lm
+4) Depois executa o arquivo executavél
+
+Fonte do projecto:
+	https://github.com/servetgulnaroglu/cube.c/
+
